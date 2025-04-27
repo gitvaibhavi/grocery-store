@@ -17,4 +17,23 @@ This is a simple **Grocery Store Management System** developed using **Python**.
 - Basic input validation
 
 ## File Structure
-
+grocery_store/
+│
+├── data/
+│   ├── products.json
+│   └── sales.json
+│
+├── src/
+│   ├── add_product.py
+│   ├── view_products.py
+│   ├── search_product.py
+│   ├── sell_product.py
+│   └── sales_report.py
+│
+├── utils/
+│   ├── file_handler.py
+│   └── validators.py
+│
+├── main.py
+├── README.md
+└── requirements.txt
