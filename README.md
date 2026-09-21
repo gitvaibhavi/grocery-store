@@ -17,6 +17,7 @@ This is a simple **Grocery Store Management System** developed using **Python**.
 - Basic input validation
 
 ## File Structure
+```text
 grocery_store/
 │
 ├── data/
@@ -37,3 +38,4 @@ grocery_store/
 ├── main.py
 ├── README.md
 └── requirements.txt
+```
